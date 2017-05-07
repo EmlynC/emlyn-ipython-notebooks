@@ -1,0 +1,9 @@
+h5py
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+peakutils
+pywt
+wfdb
