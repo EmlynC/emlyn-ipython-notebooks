@@ -12,7 +12,7 @@ lets you view the presentation! Alternatively use the links below
 The links take you to a view of the presentation on NBViewer.com
 
 <dl> <dt><a
-  href="http://nbviewer.ipython.org/github/EmlynC/emlyn-ipython-notebooks/blob/master/emlyn_matlab-to-python.ipynb">Python
+  href="http://nbviewer.jupyter.org/github/EmlynC/emlyn-ipython-notebooks/blob/master/Matlab%20to%20Python/emlyn_matlab-to-python.ipynb">Python
   as an alternative to MATLAB in life sciences; transliterating your
   experiments and interfacing hardware.</a></dt> <dd><p>A talk on
   moving experiments that you write in MATLAB to the Python scientific
