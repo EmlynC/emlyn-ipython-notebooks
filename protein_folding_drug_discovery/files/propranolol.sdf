@@ -1,0 +1,120 @@
+
+Marvin  10110709292D          
+
+ 19 20  0  0  0  0            999 V2000
+    1.7500   -1.0125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4645   -0.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4645    0.2250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0355   -0.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0355    0.2250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3211    0.6375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3934    0.2250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3934   -0.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3211   -1.0125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7500    0.6375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7500    1.4625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4645    1.8750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8934    1.8750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6079    1.4625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3224    2.7000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3224    1.8750    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    6.0368    1.4625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1789    1.4625    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    3.1789    0.6375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+ 10  5  1  0  0  0  0
+ 10  3  2  0  0  0  0
+  4  1  1  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  9  4  1  0  0  0  0
+  5  4  2  0  0  0  0
+  6  5  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 18 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 15  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <ID>
+CHEBI:8499
+
+> <NAME>
+propranolol
+
+> <DEFINITION>
+A propanolamine that is propan-2-ol substituted by a propan-2-ylamino group at position 1 and a naphthalen-1-yloxy group at position 3.
+
+> <STAR>
+3
+
+> <SYNONYM>
+propranololo; Propranolol; Propanolol; Propanalol; beta-Propranolol; 1-(isopropylamino)-3-(1-naphthyloxy)propan-2-ol; 1-((1-Methylethyl)amino)-3-(1-naphthalenyloxy)-2-propanol
+
+> <IUPAC_NAME>
+3-(naphthalen-1-yloxy)-1-(propan-2-ylamino)propan-2-ol
+
+> <INN>
+propranololum; propranolol; propranolol; propranolol
+
+> <FORMULA>
+C16H21NO2
+
+> <MASS>
+259.34348
+
+> <MONOISOTOPIC_MASS>
+259.15723
+
+> <CHARGE>
+0
+
+> <SMILES>
+CC(C)NCC(O)COc1cccc2ccccc12
+
+> <INCHI>
+InChI=1S/C16H21NO2/c1-12(2)17-10-14(18)11-19-16-9-5-7-13-6-3-4-8-15(13)16/h3-9,12,14,17-18H,10-11H2,1-2H3
+
+> <INCHIKEY>
+AQHHHDLHHXJYJD-UHFFFAOYSA-N
+
+> <BEILSTEIN_REGISTRY_NUMBER>
+987417
+
+> <CAS_REGISTRY_NUMBER>
+525-66-6
+
+> <REAXYS_REGISTRY_NUMBER>
+987417
+
+> <CHEMIDPLUS>
+525-66-6
+
+> <DRUGBANK_ACCESSION>
+DB00571
+
+> <KEGG_COMPOUND_ACCESSION>
+C07407
+
+> <KEGG_DRUG_ACCESSION>
+D08443
+
+> <LINCS_ACCESSION>
+LSM-4329
+
+> <NIST_CHEMISTRY_WEBBOOK>
+525-66-6
+
+> <WIKIPEDIA_ACCESSION>
+Propranolol
+
+> <PUBMED_CITATION>
+18259090; 24495884; 24504055
+
+$$$$

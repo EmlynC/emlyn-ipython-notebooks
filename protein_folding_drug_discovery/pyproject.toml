@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "pydata 2024 - protein folding and what it means for drug discovery"
+version = "0.1.0"
+description = ""
+authors = ["emlync <eclay101@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<4.0"
+jupyter = "^1.0.0"
+nglview = "^3.1.2"
+biopython = "^1.83"
+networkx = "^3.3"
+requests = "^2.31.0"
+pandas = "^2.2.2"
+numpy = "^1.26.4"
+matplotlib = "^3.8.4"
+dockstring = "^0.3.2"
+rdkit = "^2023.9.6"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
