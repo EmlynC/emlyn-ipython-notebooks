@@ -1,8 +1,6 @@
 # Emlyn's IPython Notebooks
 
-A collection of ipython notebooks that I've authored for demonstration
-and presentation purposes. You are welcome to use the information within as you wish, although do note that some of it was lifted from
-elsewhere so I ask that you respect the original cited work.
+A collection of ipython notebooks that I've authored for demonstration and presentation purposes.
 
 ## List of presentations
 
@@ -19,16 +17,12 @@ A talk on how to analyse the ECG with Python, [here is the notebook](./analysing
 
 It was presented at PyData London 2017, [here is the YouTube video of it](https://www.youtube.com/watch?v=WyjGCEWU4zY).
 
-### (2024)
+### (2024) Protein folding and what it means for drug discovery
 
-## How to view the slides in presentation mode?
+This talk will give you just enough background to understand what proteins are, how therapeutic outcomes occur when you interact with them
+and Python and it's libraries can be used to discover new drugs. We'll make reference to AlphaFold 2 and AlphaFold 3, but mostly focus on
+the practical aspect of how to analyse proteins in python with libraries such biopython, dockstring, rdkit, autodock vina and pymol (all
+open-source) and how that could be used to find drugs.
 
-If you'd like to convert the slides into a presentation then use the
-following command
-
-```bash
-ipython nbconvert --to slides --post serve <NAME OF THE NOTEBOOK>.ipynb
-```
-
-This converts ipython notebook into Reveal.js slides and the --post
-arguement fires off a simple webserver so you can view it all at once.
+[Here is the notebook](./protein_folding_drug_discovery/protein_folding_drug_discovery.ipynb). It was
+presented at PyData London 2024, [here is the YouTube video of it](https://www.youtube.com/watch?v=1H5Xywx0Hz8).
