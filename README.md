@@ -1,29 +1,25 @@
 # Emlyn's IPython Notebooks
 
 A collection of ipython notebooks that I've authored for demonstration
-and presentation purposes.
-
-You can view any of the presentations using the NBViewer website. You
-concatenate the github URL to the NBViewer URL and it REST-magically
-lets you view the presentation! Alternatively use the links below
+and presentation purposes. You are welcome to use the information within as you wish, although do note that some of it was lifted from
+elsewhere so I ask that you respect the original cited work.
 
 ## List of presentations
 
-The links take you to a view of the presentation on NBViewer.com
+### (2014) Python as an alternative to MATLAB in life sciences; transliterating your experiments and interfacing hardware.
 
-<dl> <dt><a
-  href="http://nbviewer.jupyter.org/github/EmlynC/emlyn-ipython-notebooks/blob/master/Matlab%20to%20Python/emlyn_matlab-to-python.ipynb">Python
-  as an alternative to MATLAB in life sciences; transliterating your
-  experiments and interfacing hardware.</a></dt> <dd><p>A talk on
-  moving experiments that you write in MATLAB to the Python scientific
-  stack</p>
+A talk on moving experiments that you write in MATLAB to the Python scientific
+stack, [here is the notebook](./matlab_to_python/matlab_to_python.ipynb)
 
-<span style="font-weight: strong">List of appearances</span> <ul> <li><a
-href="http://www.meetup.com/PyData-London-Meetup/events/179396812/">2014-06-03
-PyDataLondon Celebratory First Meetup</a></li> </ul>
+[PyDataLondon Celebratory First Meetup](http://www.meetup.com/PyData-London-Meetup/events/179396812/)
 
-  </dd>
-</dl>
+### (2017) Analysing the ElectroCardioGram (ECG)
+
+A talk on how to analyse the ECG with Python, [here is the notebook](./analysing_ecg/analysing_ecg.ipynb)
+
+It was presented at PyData London 2017, [here is the YouTube video of it](https://www.youtube.com/watch?v=WyjGCEWU4zY).
+
+### (2024)
 
 ## How to view the slides in presentation mode?
 
